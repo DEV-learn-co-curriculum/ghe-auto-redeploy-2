@@ -15,4 +15,4 @@ Make the tests pass.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ghe-auto-redeploy-2'>ghe-auto-redeploy-2</a> on Learn.co and start learning to code for free.</p>
 
-test auto redeploy, with fake client rate limit
+test auto redeploy, with fake client rate limit and don't try to add teams that don't exist.
